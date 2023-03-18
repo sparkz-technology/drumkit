@@ -1,3 +1,3 @@
 # Drumkit
- [🚀](https://sparkz-technology.github.io/drumkit/)##click to go
+ [🚀](https://sparkz-technology.github.io/drumkit/) 
 > Author: github.com/sparkz-technology
