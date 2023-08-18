@@ -33,9 +33,7 @@ To customize the drum kit, you can modify the following:
 
 Feel free to customize the drum kit according to your preferences and requirements.
 
-## Compatibility
 
-The drum kit application should work on most modern web browsers that support HTML5 and JavaScript. Ensure that your browser is up to date for the best experience.
 
 
  [🚀Click Here](https://sparkz-technology.github.io/drumkit/) 
